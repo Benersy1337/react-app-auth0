@@ -1,2 +1,2 @@
-# react-app-auth0
+# Npm start in Main App directory and Second App directory
  
